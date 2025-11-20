@@ -6,7 +6,7 @@
 "lul":["./sounds/lul-FOMDJ.wav"],
 "meal":["./sounds/meal-FOMDJ.wav"],
 "away":["./Survival/away-survival.wav"],
-"break":["./Survival/break-survival.wav"],
+"breaks":["./Survival/break-survival.wav"],
 "face":["./Survival/face-survival.wav"],
 "fade":["./Survival/fade-survival.wav"],
 "inyo":["./Survival/inyo-survival.wav"],
