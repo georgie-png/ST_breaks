@@ -4,7 +4,7 @@ output_file="strudel.json"
 
 rm $output_file
 
-echo "{'_base':'https://raw.githubusercontent.com/georgie-png/ST_breaks/main/'," >> $output_file
+echo "{\"_base\":\"https://raw.githubusercontent.com/georgie-png/ST_breaks/main/\"," >> $output_file
 
 for file in ./*/*.wav
 do
@@ -15,7 +15,7 @@ do
         xpref=${xbase%.*}
         name=${xpref%%-*}
 
-        echo "'${name}':['${file}']," >> ${output_file}
+        echo "\"${name}\":[\"${file}\"]," >> ${output_file}
   fi
  
 
