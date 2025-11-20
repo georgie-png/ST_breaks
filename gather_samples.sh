@@ -4,7 +4,7 @@ output_file="strudel.json"
 
 rm $output_file
 
-echo "{"_base":"https://raw.githubusercontent.com/georgie-png/ST_breaks/main/"," >> pandoc_order.md
+echo "{'_base':'https://raw.githubusercontent.com/georgie-png/ST_breaks/main/'," >> $output_file
 
 for file in ./*/*.wav
 do
