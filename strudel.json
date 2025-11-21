@@ -16,5 +16,5 @@
 "retreat":["./surv/retreat-survival.wav"],
 "rusty":["./surv/rusty-survival.wav"],
 "this":["./surv/this-survival.wav"],
-"uhhm":["./surv/uhhm-survival.wav"],
+"uhhm":["./surv/uhhm-survival.wav"]
 }
