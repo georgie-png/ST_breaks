@@ -14,8 +14,9 @@ do
         xbase=${file##*/}
         xpref=${xbase%.*}
         name=${xpref%%-*}
+        path=${file#"./"}
 
-        echo "\"${name}\":[\"${file}\"]," >> ${output_file}
+        echo "\"${name}\":[\"${path}\"]," >> ${output_file}
   fi
  
 
