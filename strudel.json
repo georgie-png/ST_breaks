@@ -2,7 +2,7 @@
 "away":["./sounds/away-survival.wav"],
 "Bill_Withers_":["./sounds/Bill_Withers_-_Use_Me_(101_LoopFix) [2019-03-04 124553].wav"],
 "break":["./sounds/break-FOMDJ.wav"],
-"break":["./sounds/break-survival.wav"],
+"breaks":["./sounds/break-survival.wav"],
 "face":["./sounds/face-survival.wav"],
 "fade":["./sounds/fade-survival.wav"],
 "feel":["./sounds/feel-FOMDJ.wav"],
